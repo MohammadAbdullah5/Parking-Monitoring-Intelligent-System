@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MohammadAbdullah5/AI-based-Parking-Systen-Backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Robass-Atif/ai_project_theory
+[submodule "Model"]
+	path = Model
+	url = https://github.com/Robass-Atif/flaskapi
